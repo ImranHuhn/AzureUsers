@@ -2,12 +2,6 @@
   <h1 align="center">Creating a user for least privilege</h1>
 </p>
 
-<h2>Links:</h2>
-
-- [Google Doc](https://docs.google.com/document/d/1ZUGkgGCq0eHjSl91mGeFpZXTSQdBi8Wh08D9XJwco_Q/edit?usp=sharing)
-- [Github Repo](https://github.com/ImranHuhn/AzureUsers)
-- [Blog](http://www.techdeficient.com/2024/06/creating-user-for-least-privilege.html)
-
 <h2>TLDR: Creating a new user</h2>
 
 - <b>Introduction </b>
